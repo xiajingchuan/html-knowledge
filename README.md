@@ -6,4 +6,4 @@ html知识整理
 [Go!](list.md)
 
 
-声明：本文档内容参考 [w3school](http://www.w3school.com.cn/) 网站整理而成
+声明：本文档内容参考 <a href="http://www.w3school.com.cn/" target="_blank">w3school</a> 网站整理而成
